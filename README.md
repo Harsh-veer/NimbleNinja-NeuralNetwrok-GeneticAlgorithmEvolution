@@ -1,2 +1,2 @@
-# NimbleNinja-NeuralNetwrok-GeneticAlgorithmEvolution
-Training a neural network to play nimble ninja, optimisation done using genetic algorithm
+# NimbleNinja-GeneticAlgorithm
+Neural network for playing nimble ninja, optimisation done using genetic algorithm
